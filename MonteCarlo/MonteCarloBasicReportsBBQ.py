@@ -19,6 +19,12 @@
 # "sims". This probability, that the writer will need more than 9 hours to
 # write, is then printed at the end.
 #
+# Use:
+#     python3 MonteCarloBasicReportsBBQ.py
+#
+# Dependencies:
+# python3 python3-numpy python3-matplotlib
+# 
 # Source: "A Simple Solution for Really Hard Problems: Monte Carlo Simulation"
 #         https://youtu.be/slbZ-SLpIgg
 #

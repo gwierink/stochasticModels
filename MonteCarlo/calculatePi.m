@@ -20,9 +20,12 @@
 % or not by checking whether x^2 + y^2 <= 1.
 % See https://www.geeksforgeeks.org/estimating-value-pi-using-monte-carlo/
 % for further explanation.
-
+%
+% Run:
+%     octave calculatePi.m
+%
 % Date: 8 March 2023
-
+%
 %------------------------------------------------------------------------------
 
 % Take a large number of points
